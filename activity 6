@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta caeset="UTF-8">
+<meta http-eqiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Student Bio</h1>
+    </header>
+    <h2>Mahogany Hampton</h2>
+    
+
+    <section>
+<img src="IMG_7456.PNG" </img>
+   </section>
+
+    <section>
+<h2>About me</h2>
+    <p>My name is Mahogany Hampton. Im 19 years old. I grew up in New York for 13 years and now I live in Pa. I joined this course to expand my knowledge as well as kickstart my career in this feild</p>
+
+    </section>
+
+    <section>
+        <h2>Contact Info</h2>
+        <ul>
+        <li>Email:<link><a>@mahoganyahampton@gmail.com </a></link></li>
+        <li>Gitbub: mhampton1123</li>
+        <li>Portfolio: Coming Soon</li> 
+        </ul>
+    </section>
+
+</body>
+</html>
